@@ -1,0 +1,6 @@
+setting pin 12 HIGH
+pin 12 is connected to pin 13 and the onboard LED so the LED should turn on
+pin 13 value: True (expected True)
+pin 11 value: False (expected False)
+pin 10 value: True (expected True)
+finished
